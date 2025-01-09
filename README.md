@@ -40,3 +40,4 @@
 ---
 
 💡 **EduGrader Pro** is a solution for educators to transform grading from a burden to a breeze! With this tool, grading becomes a more streamlined and manageable process.
+
